@@ -1,5 +1,4 @@
-# Machine Learning Algorithms - University Course Repository
-
+# Machine Learning Algorithms 
 Welcome to the repository for machine learning algorithms developed during a university course. Explore four comprehensive notebooks covering various aspects of machine learning:
 
 1. **[K-Nearest Neighbors (KNN) Wine Classification:](knn.ipynb)**
